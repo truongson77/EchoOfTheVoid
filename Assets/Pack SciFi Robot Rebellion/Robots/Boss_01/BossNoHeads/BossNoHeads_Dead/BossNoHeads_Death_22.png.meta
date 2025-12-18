@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: bbd70c4eea4724a67acda8d76c043b58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1447556964599300656
+    second: BossNoHeads_Death_22_0
+  - first:
+      213: -3329564355114333643
+    second: BossNoHeads_Death_22_1
+  - first:
+      213: 8397603965699467757
+    second: BossNoHeads_Death_22_2
+  - first:
+      213: -7232510245903055463
+    second: BossNoHeads_Death_22_3
+  - first:
+      213: -9007324214028749337
+    second: BossNoHeads_Death_22_4
+  - first:
+      213: 7339956776145501517
+    second: BossNoHeads_Death_22_5
+  - first:
+      213: 9205081597931985
+    second: BossNoHeads_Death_22_6
+  - first:
+      213: -8048108563380509868
+    second: BossNoHeads_Death_22_7
+  - first:
+      213: 9213297420942343266
+    second: BossNoHeads_Death_22_8
+  - first:
+      213: -330370410532018642
+    second: BossNoHeads_Death_22_9
+  - first:
+      213: -7984101439944918538
+    second: BossNoHeads_Death_22_10
+  - first:
+      213: -1453421579932651506
+    second: BossNoHeads_Death_22_11
+  - first:
+      213: 7178245193611612796
+    second: BossNoHeads_Death_22_12
+  - first:
+      213: 8625140438071974499
+    second: BossNoHeads_Death_22_13
+  - first:
+      213: -3279400231930895991
+    second: BossNoHeads_Death_22_14
+  - first:
+      213: 4255115835017518319
+    second: BossNoHeads_Death_22_15
+  - first:
+      213: -24152900826507545
+    second: BossNoHeads_Death_22_16
+  - first:
+      213: 5881124675369069598
+    second: BossNoHeads_Death_22_17
+  - first:
+      213: -1596292288654387681
+    second: BossNoHeads_Death_22_18
+  - first:
+      213: 522701045548610463
+    second: BossNoHeads_Death_22_19
+  - first:
+      213: 291412965492832526
+    second: BossNoHeads_Death_22_20
+  - first:
+      213: -8769301276620983922
+    second: BossNoHeads_Death_22_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 97
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd7ae43c9e39ebe0800000000000000
+      internalID: -1447556964599300656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 109
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a8b9c1cd20bc1d0800000000000000
+      internalID: -3329564355114333643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 115
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9adeb70584a8470800000000000000
+      internalID: 8397603965699467757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99543963046f0ab90800000000000000
+      internalID: -7232510245903055463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 79
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5ba06a95e8ff280800000000000000
+      internalID: -9007324214028749337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 49
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dbfd49cc3ccd560800000000000000
+      internalID: 7339956776145501517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 71
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1f5c219f3b02000800000000000000
+      internalID: 9205081597931985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 29
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453ecedf6ef5f4090800000000000000
+      internalID: -8048108563380509868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 61
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c7a41b0353cdf70800000000000000
+      internalID: 9213297420942343266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_9
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 61
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2660fbacd94a6bf0800000000000000
+      internalID: -330370410532018642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 37
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9f56dba06c23190800000000000000
+      internalID: -7984101439944918538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 45
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e003a3b06c864dbe0800000000000000
+      internalID: -1453421579932651506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7210ebb8ff3e9360800000000000000
+      internalID: 7178245193611612796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 9
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a132dc787a2b770800000000000000
+      internalID: 8625140438071974499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 29
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981ec633dda3d72d0800000000000000
+      internalID: -3279400231930895991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_15
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 37
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecdb50be453d0b30800000000000000
+      internalID: 4255115835017518319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6d0fd80113aaff0800000000000000
+      internalID: -24152900826507545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c68239bb3fd9150800000000000000
+      internalID: 5881124675369069598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f165f09fe94d8d9e0800000000000000
+      internalID: -1596292288654387681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 15
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9376afd4d1014700800000000000000
+      internalID: 522701045548610463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 13
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09b4235c8e4b0400800000000000000
+      internalID: 291412965492832526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossNoHeads_Death_22_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 15
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8170ae53fe2d4680800000000000000
+      internalID: -8769301276620983922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossNoHeads_Death_22_0: -1447556964599300656
+      BossNoHeads_Death_22_1: -3329564355114333643
+      BossNoHeads_Death_22_10: -7984101439944918538
+      BossNoHeads_Death_22_11: -1453421579932651506
+      BossNoHeads_Death_22_12: 7178245193611612796
+      BossNoHeads_Death_22_13: 8625140438071974499
+      BossNoHeads_Death_22_14: -3279400231930895991
+      BossNoHeads_Death_22_15: 4255115835017518319
+      BossNoHeads_Death_22_16: -24152900826507545
+      BossNoHeads_Death_22_17: 5881124675369069598
+      BossNoHeads_Death_22_18: -1596292288654387681
+      BossNoHeads_Death_22_19: 522701045548610463
+      BossNoHeads_Death_22_2: 8397603965699467757
+      BossNoHeads_Death_22_20: 291412965492832526
+      BossNoHeads_Death_22_21: -8769301276620983922
+      BossNoHeads_Death_22_3: -7232510245903055463
+      BossNoHeads_Death_22_4: -9007324214028749337
+      BossNoHeads_Death_22_5: 7339956776145501517
+      BossNoHeads_Death_22_6: 9205081597931985
+      BossNoHeads_Death_22_7: -8048108563380509868
+      BossNoHeads_Death_22_8: 9213297420942343266
+      BossNoHeads_Death_22_9: -330370410532018642
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

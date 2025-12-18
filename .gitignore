@@ -1,0 +1,14 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Logs]/
+/[MemoryCaptures]/
+
+# Thư mục chứa file Visual Studio tự tạo
+.vs/
+*.csproj
+*.sln
+*.userprefs
+.vscode/

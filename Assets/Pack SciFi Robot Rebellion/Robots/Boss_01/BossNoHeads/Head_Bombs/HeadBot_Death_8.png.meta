@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 81d19f3ac343b4ef6ad6d25c625b4dc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -247252323959415659
+    second: HeadBot_Death_8_0
+  - first:
+      213: 7572955270930484323
+    second: HeadBot_Death_8_1
+  - first:
+      213: 401995794188813607
+    second: HeadBot_Death_8_2
+  - first:
+      213: -5568054132880009320
+    second: HeadBot_Death_8_3
+  - first:
+      213: -5224790336541032359
+    second: HeadBot_Death_8_4
+  - first:
+      213: -8255661920313312044
+    second: HeadBot_Death_8_5
+  - first:
+      213: -5209174553017431978
+    second: HeadBot_Death_8_6
+  - first:
+      213: 6567972406467151304
+    second: HeadBot_Death_8_7
+  - first:
+      213: 347763943295102890
+    second: HeadBot_Death_8_8
+  - first:
+      213: -3668153839542739505
+    second: HeadBot_Death_8_9
+  - first:
+      213: 8316089142784635838
+    second: HeadBot_Death_8_10
+  - first:
+      213: 1718441745475240739
+    second: HeadBot_Death_8_11
+  - first:
+      213: 3241568919238739444
+    second: HeadBot_Death_8_12
+  - first:
+      213: -6739345368607327873
+    second: HeadBot_Death_8_13
+  - first:
+      213: -595093403467028340
+    second: HeadBot_Death_8_14
+  - first:
+      213: -122278521280138867
+    second: HeadBot_Death_8_15
+  - first:
+      213: -5450519281614983607
+    second: HeadBot_Death_8_16
+  - first:
+      213: -8547823057302371909
+    second: HeadBot_Death_8_17
+  - first:
+      213: 2033944617971961164
+    second: HeadBot_Death_8_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeadBot_Death_8_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 115
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c52844255919cf0800000000000000
+      internalID: -247252323959415659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 123
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ccbb712ba881960800000000000000
+      internalID: 7572955270930484323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 109
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72543d18b0d249500800000000000000
+      internalID: 401995794188813607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 111
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8979a87544c4ab2b0800000000000000
+      internalID: -5568054132880009320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 105
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950049cfed0dd77b0800000000000000
+      internalID: -5224790336541032359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 79
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc710e493ffd6d80800000000000000
+      internalID: -8255661920313312044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658446ae75b45b7b0800000000000000
+      internalID: -5209174553017431978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 99
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5ca06ea10262b50800000000000000
+      internalID: 6567972406467151304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 85
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf2bc1c67183d400800000000000000
+      internalID: 347763943295102890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 75
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdd1948489181dc0800000000000000
+      internalID: -3668153839542739505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 63
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3392cc30fa86370800000000000000
+      internalID: 8316089142784635838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323014ea9a129d710800000000000000
+      internalID: 1718441745475240739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 31
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f50c2ae1cd5cfc20800000000000000
+      internalID: 3241568919238739444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 53
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f797c7508190972a0800000000000000
+      internalID: -6739345368607327873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 45
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c886b26d3bdcdb7f0800000000000000
+      internalID: -595093403467028340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81ff6f25549d4ef0800000000000000
+      internalID: -122278521280138867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 39
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eebe9679ddb54b0800000000000000
+      internalID: -5450519281614983607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1499ab738006980800000000000000
+      internalID: -8547823057302371909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadBot_Death_8_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d490f8ad50a3c10800000000000000
+      internalID: 2033944617971961164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeadBot_Death_8_0: -247252323959415659
+      HeadBot_Death_8_1: 7572955270930484323
+      HeadBot_Death_8_10: 8316089142784635838
+      HeadBot_Death_8_11: 1718441745475240739
+      HeadBot_Death_8_12: 3241568919238739444
+      HeadBot_Death_8_13: -6739345368607327873
+      HeadBot_Death_8_14: -595093403467028340
+      HeadBot_Death_8_15: -122278521280138867
+      HeadBot_Death_8_16: -5450519281614983607
+      HeadBot_Death_8_17: -8547823057302371909
+      HeadBot_Death_8_18: 2033944617971961164
+      HeadBot_Death_8_2: 401995794188813607
+      HeadBot_Death_8_3: -5568054132880009320
+      HeadBot_Death_8_4: -5224790336541032359
+      HeadBot_Death_8_5: -8255661920313312044
+      HeadBot_Death_8_6: -5209174553017431978
+      HeadBot_Death_8_7: 6567972406467151304
+      HeadBot_Death_8_8: 347763943295102890
+      HeadBot_Death_8_9: -3668153839542739505
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
