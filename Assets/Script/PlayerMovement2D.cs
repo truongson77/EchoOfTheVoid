@@ -32,7 +32,7 @@ public class PlayerController : MonoBehaviour
         rb.gravityScale = 0f;   // Top-down: không trọng lực
         rb.freezeRotation = true;
 
-        currentHealth = maxHealth;
+        currentHealth = 50;
     }
 
     void Update()
@@ -94,6 +94,8 @@ public class PlayerController : MonoBehaviour
         currentHealth -= damage;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
 
+        Debug.Log("Took Damage: " + damage + ", Current Health: " + currentHealth);
+
         if (currentHealth <= 0)
             Die();
     }
@@ -104,6 +106,8 @@ public class PlayerController : MonoBehaviour
 
         currentHealth += amount;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
+
+        Debug.Log("Healed: " + amount + ", Current Health: " + currentHealth);
     }
 
     void Die()
