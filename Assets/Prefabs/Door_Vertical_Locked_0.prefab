@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 4463967937769465732}
   - component: {fileID: 8301553941676292400}
   - component: {fileID: 5141744709140692851}
+  - component: {fileID: 7235535860688910394}
+  - component: {fileID: 2920131546577728634}
   m_Layer: 0
   m_Name: Door_Vertical_Locked_0
   m_TagString: Untagged
@@ -121,7 +123,7 @@ PolygonCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -139,15 +141,52 @@ PolygonCollider2D:
     m_Paths:
     - - {x: -0.16, y: 0.78999996}
       - {x: -0.16236214, y: 0.14199485}
-      - {x: -0.048283264, y: 0.14148138}
-      - {x: -0.048459366, y: -0.4823409}
+      - {x: -0.4903948, y: 0.14257078}
+      - {x: -0.48512518, y: -0.47999486}
+      - {x: -0.1607101, y: -0.4823409}
       - {x: -0.16124922, y: -0.4828572}
       - {x: -0.16, y: -0.78999996}
       - {x: 0.16, y: -0.78999996}
       - {x: 0.15999982, y: -0.48346937}
-      - {x: 0.054933205, y: -0.48565492}
-      - {x: 0.052529126, y: 0.14094967}
+      - {x: 0.4810087, y: -0.49085832}
+      - {x: 0.47718966, y: -0.32684028}
+      - {x: 0.4641924, y: -0.2284868}
+      - {x: 0.45103425, y: 0.14049178}
       - {x: 0.16079272, y: 0.14455305}
       - {x: 0.16079274, y: 0.14455305}
       - {x: 0.16, y: 0.78999996}
   m_UseDelaunayMesh: 0
+--- !u!95 &7235535860688910394
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2354261499403028709}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7ee8b5501800549119a744a047b27b5f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &2920131546577728634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2354261499403028709}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d00218cb74a94f31aca7e8f9408789c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AutoDoor

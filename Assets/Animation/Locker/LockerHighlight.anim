@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Chest1Open
+  m_Name: LockerHighlight
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,13 +21,7 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 3087920997378133959, guid: 30deb91c18333441190a0cb447268e2e, type: 3}
-    - time: 0.16666667
-      value: {fileID: -8162365720621510642, guid: df9ebeba1a22d459b8cb0b1ed3e182e4, type: 3}
-    - time: 0.33333334
-      value: {fileID: 1644937886774155037, guid: 2cacd7dab5f9047009915b02bdff6eef, type: 3}
-    - time: 0.5
-      value: {fileID: 5101866823913523385, guid: d5f817e9f273c483a95422fca6bbf711, type: 3}
+      value: {fileID: -3431328701854525789, guid: f01208eb2e861407cb5954325c239103, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -50,16 +44,13 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 3087920997378133959, guid: 30deb91c18333441190a0cb447268e2e, type: 3}
-    - {fileID: -8162365720621510642, guid: df9ebeba1a22d459b8cb0b1ed3e182e4, type: 3}
-    - {fileID: 1644937886774155037, guid: 2cacd7dab5f9047009915b02bdff6eef, type: 3}
-    - {fileID: 5101866823913523385, guid: d5f817e9f273c483a95422fca6bbf711, type: 3}
+    - {fileID: -3431328701854525789, guid: f01208eb2e861407cb5954325c239103, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.51666665
+    m_StopTime: 0.016666668
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
