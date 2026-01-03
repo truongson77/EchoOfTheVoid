@@ -2,76 +2,37 @@ using UnityEngine;
 
 public class EnemyAI : MonoBehaviour
 {
-    public float speed = 3f;
-    public float changeTime = 1f;
-    private Animator animator;
+    public float moveSpeed = 2f;
+    public float stopDistance = 4f;
+    public float retreatDistance = 2f;
+
+    private Transform player;
     private Rigidbody2D rb;
-    private float timer;
-    private Vector2 moveDirection;
-    private SpriteRenderer spriteRenderer;
 
-
-    void Start()
+    void Awake()
     {
-        animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
-        spriteRenderer = GetComponent<SpriteRenderer>();
-        ChooseNewDirection();
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        timer += Time.deltaTime;
-
-        if (timer >= changeTime)
-        {
-            ChooseNewDirection();
-            timer = 0f;
-        }
+        player = FindFirstObjectByType<PlayerHealth>().transform;
     }
 
     void FixedUpdate()
     {
-        // wondering around
-        Vector2 position = rb.position;
-        position += moveDirection * speed * Time.fixedDeltaTime;
-        rb.MovePosition(position);
+        if (player == null) return;
 
-        // animation logic
-        if (moveDirection.x != 0 || moveDirection.y != 0)
+        float distance = Vector2.Distance(transform.position, player.position);
+        Vector2 dir = (player.position - transform.position).normalized;
+
+        if (distance > stopDistance)
         {
-            if (animator != null)
-            {
-                animator.SetBool("isMoving", true);
-            }
-            if (moveDirection.x > 0)
-            {
-                spriteRenderer.flipX = false;
-            }
-            else if (moveDirection.x < 0)
-            {
-                spriteRenderer.flipX = true;
-            }
+            rb.linearVelocity = dir * moveSpeed;          // Tiến lên
         }
-    }
-
-    void ChooseNewDirection()
-    {
-        // Choose a random direction (including staying still occasionally)
-        float randomX = Random.Range(-0.3f, 0.3f);
-        float randomY = Random.Range(-0.3f, 0.3f);
-
-        moveDirection = new Vector2(randomX, randomY).normalized;
-
-        // 60% chance to stop moving
-        if (Random.value < 0.6f)
+        else if (distance < retreatDistance)
         {
-            moveDirection = Vector2.zero;
-            if (animator != null)
-            {
-                animator.SetBool("isMoving", false);
-            }
+            rb.linearVelocity = -dir * moveSpeed;         // Lùi lại
+        }
+        else
+        {
+            rb.linearVelocity = Vector2.zero;             // Đứng bắn
         }
     }
 }
